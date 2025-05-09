@@ -1,0 +1,1 @@
+add_library(Vector Sorting.cpp Searching.cpp)
